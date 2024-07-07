@@ -71,7 +71,6 @@
 
 ## 👨‍💻 What I've done so far
 
-[![Hikaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru028&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaru028&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Hikaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru028&show_icons=true&theme=tokyonight)
 

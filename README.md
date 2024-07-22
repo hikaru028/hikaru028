@@ -6,7 +6,7 @@
 ## 💁‍♂️ Hikaru Suzuki
 <div style="display: flex; align-items: center;">
   <div style="flex: 3; padding-right: 20px;">
-    <p align="left">I'm Hikaru from Japan, currently in New Zealand, and I do content on design and development. I am really fond of learning languages and frameworks, such as Node.js, Next.js and Python. I also enjoy UI/UX and design. You can visit my portfolio website <a href="https://hikarusuzuki.link/portfolio">hikarusuzuki.link/portfolio</a>, or check out my Twitter page at <a href="https://twitter.com/itshikaru28">twitter.com/itshikaru28</a>.</p>
+    <p align="left">I'm Hikaru from Japan, currently in New Zealand, and I do content on design and development. I am really fond of learning languages and frameworks, such as Javascript, Next.js, Python and AWS. I also enjoy UI/UX and design. You can visit my portfolio website <a href="https://hikarusuzuki.link/portfolio">hikarusuzuki.link/portfolio</a>, or check out my Twitter page at <a href="https://twitter.com/itshikaru28">twitter.com/itshikaru28</a>.</p>
   </div>
   <p align="left">
 <a href="https://twitter.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshikaru28" height="20" width="30" /></a>

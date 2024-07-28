@@ -6,12 +6,12 @@
 ## 💁‍♂️ Hikaru Suzuki
 <div style="display: flex; align-items: center;">
   <div style="flex: 3; padding-right: 20px;">
-    <p align="left">I'm Hikaru from Japan, currently in New Zealand, and I do content on design and development. I am really fond of learning languages and frameworks, such as Javascript, Next.js, Python and AWS. I also enjoy UI/UX and design. You can visit my portfolio website <a href="https://hikarusuzuki.link/portfolio">hikarusuzuki.link/portfolio</a>, or check out my Twitter page at <a href="https://twitter.com/itshikaru28">twitter.com/itshikaru28</a>.</p>
+    <p align="left">I'm Hikaru from Japan, currently in New Zealand, and I do content on design and development. I am really fond of learning languages and frameworks, such as Javascript, Next.js, Python and AWS. I also enjoy UI/UX and design. You can visit my portfolio website <a href="https://hikarusuzuki.link/portfolio">hikarusuzuki.link/portfolio</a>.</p>
   </div>
   <p align="left">
-<a href="https://twitter.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshikaru28" height="20" width="30" /></a>
+<!-- <a href="https://twitter.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshikaru28" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/hsuzuki28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsuzuki28" height="20" width="30" /></a>
-<a href="https://instagram.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itshikaru28" height="20" width="30" /></a>
+<a href="https://instagram.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itshikaru28" height="20" width="30" /></a> -->
 </p>
   <div align="center">
     <img src="https://i.pinimg.com/originals/59/30/74/593074c302700c41ae6fdfeca3d51563.gif" alt="hikaru028" style="max-width: 100%;" />
@@ -74,9 +74,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaru028&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Hikaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru028&show_icons=true&theme=tokyonight)
 
-## 🙌 Let's connect with me!
-<p align="left">
-<a href="https://twitter.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshikaru28" height="20" width="30" /></a>
-<a href="https://linkedin.com/in/hsuzuki28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsuzuki28" height="20" width="30" /></a>
-<a href="https://instagram.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itshikaru28" height="20" width="30" /></a>
-</p>
+
+
+<!-- <a href="https://twitter.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshikaru28" height="20" width="30" /></a> -->
+<!-- <a href="https://linkedin.com/in/hsuzuki28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsuzuki28" height="20" width="30" /></a> -->
+<!-- <a href="https://instagram.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itshikaru28" height="20" width="30" /></a> -->
+<!-- </p> -->

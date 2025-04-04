@@ -27,7 +27,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat" />
 </p>
 
@@ -35,6 +34,7 @@
 <p align="left">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />

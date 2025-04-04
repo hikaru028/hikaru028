@@ -52,6 +52,7 @@
 **Cloud Computing:**
 <p align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" />
+  <img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat" />
 </p>
 
 **Testing Tools:**
@@ -64,7 +65,6 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat" />
   <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellij-idea&logoColor=white&style=flat" />
   <img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white&style=flat" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" />
 </p>

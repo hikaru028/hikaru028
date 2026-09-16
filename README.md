@@ -6,7 +6,7 @@
 ## 💁‍♂️ Hikaru Suzuki
 <div style="display: flex; align-items: center;">
   <div style="flex: 3; padding-right: 20px;">
-    <p align="left">I'm Hikaru from Japan, currently in New Zealand, and I do content on design and development. I am really fond of learning languages and frameworks, such as Javascript, Next.js, Python and AWS. I also enjoy UI/UX and design.
+    <p align="left">I'm Hikaru from Japan and I do content on design and development. I am really fond of learning languages and frameworks, such as React, Next.js, Angular, Java, Python and AWS. I also enjoy UI/UX and design.
   </div>
   <p align="left">
 <!-- <a href="https://twitter.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshikaru28" height="20" width="30" /></a>
@@ -34,7 +34,6 @@
 <p align="left">
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat" />

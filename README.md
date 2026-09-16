@@ -69,11 +69,21 @@
 </p>
 
 ## 👨‍💻 What I've done so far
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hikaru028&theme=tokyonight&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Hikaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=hikaru028&show_icons=true&theme=tokyonight)
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=hikaru028&theme=tokyonight&layout=donut"
+    alt="Hikaru's Top Languages"
+  />
 
+  <br />
 
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=hikaru028&show_icons=true&theme=tokyonight"
+    alt="Hikaru's GitHub Stats"
+  />
+
+</div>
 
 <!-- <a href="https://twitter.com/itshikaru28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itshikaru28" height="20" width="30" /></a> -->
 <!-- <a href="https://linkedin.com/in/hsuzuki28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hsuzuki28" height="20" width="30" /></a> -->
